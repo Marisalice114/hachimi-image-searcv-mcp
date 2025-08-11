@@ -42,10 +42,9 @@ Hachimi Image Search API 现已兼容MCP协议。任何支持MCP协议的智能�
 ### 1. 安装
 克隆项目到本地：
 ```bash
-git clone https://github.com/your-username/hachimi-image-search-mcp-server.git
+git clone https://github.com/Marisalice114/hachimi-image-search-mcp-server.git
 cd hachimi-image-search-mcp-server
 ```
-*请将 `your-username` 替换为您的GitHub用户名。*
 
 ### 2. 构建
 使用 Maven 打包项目：

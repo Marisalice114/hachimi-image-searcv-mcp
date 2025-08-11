@@ -1,0 +1,16 @@
+server:
+  port: 910
+
+spring:
+  ai:
+    mcp:
+      server:
+        enabled: true
+        stdio: false
+        sse-endpoint: /sse
+        sse-message-endpoint: /mcp/message
+
+pexels:
+  api-key: ${PEXELS_API_KEY}
+  default-count: 5
+  max-count: 20
